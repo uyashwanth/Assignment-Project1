@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: sans-serif;
+}
+
+.nav-link {
+    color: white;
+}
+
+#logo {
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+}
+
+.login form {
+    margin: 100px 400px 100px 400px;
+}
+
+#body {
+    background-color: black;
+}
+
+.form-label {
+    color: white;
+}
+
+.form-control {
+    background-color: black;
+    color: white;
+}
+
+#exampleInputPassword1 {
+    color: black;
+    background-color: white;
+}
+
+.SignUp form {
+    margin: 100px 400px 100px 400px;
+}
+
+.form-text {
+    color: blue;
+}
+
+.form-check-label {
+    color: blue;
+}
+
+#bg_image {
+    height: 50%;
+    width: 100%;
+}
+
+.footer {
+    background-color: black;
+    height: 80px;
+}
+
+.Copyright {
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+}
+
+.card-body {
+    background-color: black;
+    height: 150px;
+    padding-top: 40px;
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+.text2 {
+    color: white;
+    text-align: center;
+}
